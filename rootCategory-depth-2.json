@@ -1,0 +1,459 @@
+{
+  "id": "rootCategory",
+  "name": "Commerce Root",
+  "url": "",
+  "child": [
+    {
+      "id": "500006",
+      "name": "Home & Garden",
+      "isDisplayedInGlobalNav": true,
+      "url": "/home-garden/c500006",
+      "child": [
+        {
+          "id": "10260380836",
+          "name": "Shop by Room",
+          "isDisplayedInGlobalNav": false
+        },
+        {
+          "id": "1902896",
+          "name": "Home Furnishings & Accessories",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "1900156",
+          "name": "Cooking & Dining",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "9780211121",
+          "name": "Storage, Laundry & Cleaning",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "9780211140",
+          "name": "Garden & DIY",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "1902776",
+          "name": "Don't Miss",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "6000370050",
+          "name": "Buying Guides & Services",
+          "isDisplayedInGlobalNav": false
+        },
+        {
+          "id": "600003330",
+          "name": "Home Design Stories",
+          "isDisplayedInGlobalNav": false,
+          "url": "/home-garden/home-design-stories/c600003330"
+        }
+      ]
+    },
+    {
+      "id": "9780211221",
+      "name": "Furniture & Lights",
+      "isDisplayedInGlobalNav": true,
+      "url": "/furniture-lights/c9780211221",
+      "child": [
+        {
+          "id": "1904616",
+          "name": "Furniture by Room",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "9780211280",
+          "name": "Furniture by Type",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "9780211282",
+          "name": "Lighting",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "20000670045",
+          "name": "Garden Furniture & Lighting",
+          "isDisplayedInGlobalNav": false
+        },
+        {
+          "id": "9835350512",
+          "name": "Don't Miss",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "6000370050",
+          "name": "Buying Guides & Services",
+          "isDisplayedInGlobalNav": false
+        }
+      ]
+    },
+    {
+      "id": "500001",
+      "name": "Electricals",
+      "isDisplayedInGlobalNav": true,
+      "url": "/electricals/c500001",
+      "child": [
+        {
+          "id": "1904821",
+          "name": "Television & Audio",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "1901311",
+          "name": "Computing & Gaming",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "1902851",
+          "name": "Home Appliances",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "1904791",
+          "name": "Small Appliances & Vacuums",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "6000720004",
+          "name": "Mobile, Cameras & Smart Tech",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "6000240734",
+          "name": "Brands We Love",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "9780421103",
+          "name": "Inspiration & Advice",
+          "isDisplayedInGlobalNav": false
+        }
+      ]
+    },
+    {
+      "id": "50000298",
+      "name": "Women",
+      "isDisplayedInGlobalNav": true,
+      "url": "/women/c50000298",
+      "child": [
+        {
+          "id": "190118298",
+          "name": "Clothing",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "10260360481",
+          "name": "Lingerie & Nightwear",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "40000480127",
+          "name": "Footwear",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "190001298",
+          "name": "Accessories",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "10060060008",
+          "name": "Inspire Me",
+          "isDisplayedInGlobalNav": true
+        }
+      ]
+    },
+    {
+      "id": "50000300",
+      "name": "Men",
+      "isDisplayedInGlobalNav": true,
+      "url": "/men/c50000300",
+      "child": [
+        {
+          "id": "190118300",
+          "name": "Clothing",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "50000400078",
+          "name": "Nightwear, Underwear & Socks",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "40000480133",
+          "name": "Footwear",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "50000050042",
+          "name": "Accessories",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "190277300",
+          "name": "Fragrance & Grooming",
+          "isDisplayedInGlobalNav": false
+        },
+        {
+          "id": "8000350100",
+          "name": "Inspire Me",
+          "isDisplayedInGlobalNav": true
+        }
+      ]
+    },
+    {
+      "id": "50000296",
+      "name": "Beauty",
+      "isDisplayedInGlobalNav": true,
+      "url": "/beauty/c50000296",
+      "child": [
+        {
+          "id": "9835440008",
+          "name": "Top Brands",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "80000310001",
+          "name": "Makeup",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "190328296",
+          "name": "Fragrance",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "9200140037",
+          "name": "Skin & Body Care",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "9781400027",
+          "name": "Hair Care & Styling",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "9200160041",
+          "name": "Wellness",
+          "isDisplayedInGlobalNav": false
+        },
+        {
+          "id": "9500240024",
+          "name": "Men's Toiletries & Grooming",
+          "isDisplayedInGlobalNav": false
+        },
+        {
+          "id": "20000810583",
+          "name": "Inspire Me",
+          "isDisplayedInGlobalNav": true
+        }
+      ]
+    },
+    {
+      "id": "5000010",
+      "name": "Baby & Child",
+      "isDisplayedInGlobalNav": true,
+      "url": "/baby-child/c5000010",
+      "child": [
+        {
+          "id": "19011110",
+          "name": "Kids Clothing",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "80000060028",
+          "name": "Baby & Toddler (0-4 yrs)",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "19004210",
+          "name": "Nursery & Home",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "80000060022",
+          "name": "Buggies & Travel",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "9780110126",
+          "name": "Toys",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "19027710",
+          "name": "Inspire Me",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "6000010327",
+          "name": "Inspiration & Advice",
+          "isDisplayedInGlobalNav": false
+        }
+      ]
+    },
+    {
+      "id": "5000011",
+      "name": "Sport & Leisure",
+      "isDisplayedInGlobalNav": true,
+      "url": "/sport-leisure/c5000011",
+      "child": [
+        {
+          "id": "19048611",
+          "name": "Sportswear",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "50000150062",
+          "name": "Fitness & Wellbeing",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "9000190158",
+          "name": "Fitness Accessories",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "19001011",
+          "name": "Hobbies & Crafts",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "19001711",
+          "name": "Travel & Luggage",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "9835000160",
+          "name": "Don't Miss",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "10260260471",
+          "name": "Live Well, Every Day: Wellbeing",
+          "isDisplayedInGlobalNav": false
+        },
+        {
+          "id": "6000350417",
+          "name": "Inspiration & Advice",
+          "isDisplayedInGlobalNav": false
+        }
+      ]
+    },
+    {
+      "id": "500009",
+      "name": "Gifts",
+      "isDisplayedInGlobalNav": true,
+      "url": "/gifts/c500009",
+      "child": [
+        {
+          "id": "1902449",
+          "name": "Gifts by Recipient",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "80000260012",
+          "name": "Gifts by Price",
+          "isDisplayedInGlobalNav": true,
+          "url": "/gifts/gifts-by-price/c80000260012"
+        },
+        {
+          "id": "1902309",
+          "name": "Gift Food & Drink",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "10060110011",
+          "name": "Popular Gifts",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "10139260003",
+          "name": "Gift Inspiration",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "10060110041",
+          "name": "Shop by Occasion",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "80000260016",
+          "name": "Gift Wrap & Party Shop",
+          "isDisplayedInGlobalNav": false,
+          "url": "/gifts/gift-wrap-party-shop/c80000260016"
+        }
+      ]
+    },
+    {
+      "id": "5000025",
+      "name": "Christmas",
+      "isDisplayedInGlobalNav": true,
+      "url": "/christmas/c5000025",
+      "child": [
+        {
+          "id": "19011225",
+          "name": "Christmas Decorations",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "9780160020",
+          "name": "Decorating Themes",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "7000510002",
+          "name": "Cards, Gift Wrap & Crackers",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "6000450660",
+          "name": "Christmas Gifting",
+          "isDisplayedInGlobalNav": true
+        }
+      ]
+    },
+    {
+      "id": "50000110",
+      "name": "Sale",
+      "isDisplayedInGlobalNav": true,
+      "url": "/special-offers/c50000110",
+      "child": [
+        {
+          "id": "9500210118",
+          "name": "Shop Offers",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "30000410089",
+          "name": "Womenswear Offers: Selected Lines",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "10260240511",
+          "name": "Menswear Offers: Selected Lines",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "7000020022",
+          "name": "Electrical Offers: Selected Lines",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "10260190151",
+          "name": "Baby & Child Offers: Selected Lines",
+          "isDisplayedInGlobalNav": true
+        },
+        {
+          "id": "30000410098",
+          "name": "Home Offers: Selected Lines",
+          "isDisplayedInGlobalNav": true
+        }
+      ]
+    }
+  ],
+  "isDisplayedInGlobalNav": true
+}
